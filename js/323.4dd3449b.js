@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvostorg_vue"]=self["webpackChunkvostorg_vue"]||[]).push([[323],{6806:(t,e,s)=>{s.r(e),s.d(e,{default:()=>a});var u=s(9835),o=s(4323);const r=(0,u.aZ)({setup(t){const e=(0,o.t)(),{logout:s}=e;return(0,u.bv)((()=>{s()})),(t,e)=>((0,u.wg)(),(0,u.iD)("div"))}}),v=r,a=v}}]);
